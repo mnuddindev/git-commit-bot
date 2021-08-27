@@ -27,4 +27,4 @@ go build main.go
 
 Play with code to make Sign/Symbols/letters in Github contribution Graph.
 
-Note: Created for just Do Fun. Have Fun 🤣😘
+Note: Created for just Fun. Play now 🤣😘
