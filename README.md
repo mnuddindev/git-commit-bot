@@ -1,6 +1,3 @@
-# git-commit-bot
-A Commit Bot for Manipulate Github Graph Using GoLang . 
-
 # go-commit-bot
 A simple bot to show yourself as a pro coder to others by manipulating Github Contribution Graph. 
 
