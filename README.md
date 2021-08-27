@@ -1,7 +1,7 @@
 # go-commit-bot
 A simple bot to show yourself as a pro coder to others by manipulating Github Contribution Graph. 
 
-## Package Ised
+## Package Used
 - GoLang
 - goment  
 
