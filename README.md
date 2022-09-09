@@ -7,7 +7,7 @@ A simple bot to show yourself as a pro coder to others by manipulating Github Co
 
 ## Installation
 ```sh
-  First of all Fork that Repository
+ First of all Fork that Repository
 ```
 ```sh
 git clone https://yourgithub.com/that-forked-repo-url.git
